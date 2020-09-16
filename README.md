@@ -2,5 +2,5 @@
  A basic BMI calcultor using HTML , CSS and basic Script
  
 
-![](src/demo.png)
+![](BMICalci/src/demo.png)
 
